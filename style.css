@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+}
+
+.container {
+    color: black;
+    display: flex;
+
+}
+
+nav {
+    display: flex;
+    margin: 23px 25px;
+    gap: 25px 25px;
+    justify-content: end;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.UE {
+    border-radius: 50%;
+    display: flex;
+    align-items: start;
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: -48px;
+    left: 180px;
+}
