@@ -9,13 +9,13 @@
     width: 100vw;
     overflow-x: none;
     background: linear-gradient(225deg, #f7e9f3 0.000%, #e7f3ff 16.667%, #ddfaff 33.333%, #e5fbeb 50.000%, #f5f6dc 66.667%, #fbede0 83.333%, #f0e3f4 100.000%);
+/* background: linear-gradient(270deg, #b25700 0.000%, #c26e00 20.000%, #da8e04 40.000%, #f3b122 60.000%, #ffcd51 80.000%, #ffdd91 100.000%); */
 }
 
 .navcontainer {
     width: 100vw;
     background: linear-gradient(45deg, #4159d0 0.000%, #c84fc0 50.000%, #ffcd70 100.000%);
-     min-height: 60px;
-    display: flex;
+  
     align-items: center;
     justify-content: center;
     position: relative;
